@@ -216,6 +216,17 @@ body {
   width: 270px;
 }
 
+.feature-box {
+  width: 270;
+  height: 120;
+  background: #f5f4fa;
+  border-radius: 4px;
+  text-align: center;
+  margin-bottom: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
 /*----------------- work-------------------- */
 
 .work {
